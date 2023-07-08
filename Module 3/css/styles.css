@@ -1,0 +1,42 @@
+.row {
+    margin-bottom: 15px;
+}
+#header-nav {
+    background-color: lightgray;
+    border-radius: 0;
+    border: 0;
+}
+.top {
+    float: left;
+}
+body {
+    background-color: gray;
+}
+.navbar-brand {
+    padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+#nav-list {
+    margin-top: 10px;
+}
+#nav-list a {
+    color: black;
+    text-align: center;
+}
+#nav-list a:hover{
+    background-color: antiquewhite;
+}
+#grey {
+    background-color: lightgray;
+    height: 1000px;
+}
